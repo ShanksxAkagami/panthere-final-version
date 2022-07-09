@@ -443,6 +443,7 @@ nav .caret {
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+    color: white;
 }
 
 .btn {
@@ -526,7 +527,7 @@ button {
 }
 
 .showScrollTop {
-    font-size: 14px;
+    font-size: 16px;
     opacity: 1;
 }
 
@@ -641,7 +642,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
 h2,
 h3,
 h4,
@@ -653,7 +653,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -679,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -712,7 +712,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -725,7 +725,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: white;
 }
 
 h4 {
